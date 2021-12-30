@@ -1,7 +1,7 @@
 ---
 title: Bing XU
 role: Research Assistant Professor
-avatar_filename: dr-xu-bing.jpeg
+avatar_filename: dr-xu-bing.jpg
 bio: "My research interests include Signal processing; Satellite positioning and
   navigation; GNSS receiver design; GNSS radio frequency interference detection
   and localization; Parameter estimation; Wireless communications. "
