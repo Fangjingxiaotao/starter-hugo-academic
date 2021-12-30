@@ -6,7 +6,7 @@ authors:
   - Jiang
   - C
   - admin
-publication_short: In *ICW*
+publication_short: ""
 abstract: Non-line-of-sight (NLOS) global navigation satellite system (GNSS)
   signals are a major factor that limits the GNSS positioning accuracy in urban
   areas. An advanced GNSS signal processing technique, the vector tracking loop
@@ -40,7 +40,7 @@ image:
     ?as=webp)"
   focal_point: ""
   preview_only: false
-  filename: 10291_2021_1101_fig1_html.webp
+  filename: polyu-logo_630x630.jpeg
 summary: ""
 url_dataset: ""
 url_project: ""
