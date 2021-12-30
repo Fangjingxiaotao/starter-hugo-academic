@@ -40,7 +40,7 @@ image:
     ?as=webp)"
   focal_point: ""
   preview_only: false
-  filename: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.png?as=webp
+  filename: 10291_2021_1101_fig1_html.webp
 summary: ""
 url_dataset: ""
 url_project: ""
