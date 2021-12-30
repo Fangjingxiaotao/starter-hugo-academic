@@ -32,10 +32,11 @@ draft: false
 featured: true
 tags: []
 slides: example
-url_pdf: ""
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s10291-021-01101-6.pdf"
 image:
   caption: "Image credit:
-    [**Unsplash**](https://media.springernature.com/full/springer-static/image/\
+    [**System-level block
+diagram of the proposed method**](https://media.springernature.com/full/springer-static/image/\
     art%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.p\
     ng?as=webp)"
   focal_point: ""
