@@ -1,7 +1,7 @@
 ---
 title: Bing XU
 role: Research Assistant Professor
-avatar_filename: https://www.polyu.edu.hk/aae/-/media/department/aae/people/dr-xu-bing.jpg?bc=ffffff&h=860&w=560&hash=D057B9EF1D66AAA2697428D57D8BAF65
+avatar_filename: dr-xu-bing.jpeg
 bio: "My research interests include Signal processing; Satellite positioning and
   navigation; GNSS receiver design; GNSS radio frequency interference detection
   and localization; Parameter estimation; Wireless communications. "
@@ -35,7 +35,7 @@ organizations:
     url: https://www.polyu.edu.hk/
 education:
   courses:
-    - course: PHD in Nanjing University of Science and Technology
+    - course: PHD in navigation guidance and control
       institution: Nanjing University of Science and Technology
       year: 2018
     - course: BEng in Nanjing University of Science and Technology
