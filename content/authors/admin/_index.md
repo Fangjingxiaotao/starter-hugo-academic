@@ -18,18 +18,15 @@ social:
     link: /#contact
     display:
       header: false
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - icon: Scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57207566680
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=DN78yRMAAAAJ&hl=en
+  - icon: ResearchGate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Bing-Xu
 organizations:
   - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/
