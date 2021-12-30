@@ -1,4 +1,12 @@
 ---
+title: Journal articles
+publication_types:
+  - "2"
+authors:
+  - Jiang
+  - C
+  - admin
+publication_short: In *ICW*
 abstract: Non-line-of-sight (NLOS) global navigation satellite system (GNSS)
   signals are a major factor that limits the GNSS positioning accuracy in urban
   areas. An advanced GNSS signal processing technique, the vector tracking loop
@@ -20,42 +28,36 @@ abstract: Non-line-of-sight (NLOS) global navigation satellite system (GNSS)
   VTL-based NLOS detection and correction method with multicorrelators, in terms
   of the positioning performance. In addition, the proposed approach has a lower
   computational load than the VTL method with multicorrelators.
-slides: example
-url_pdf: "(https://link.springer.com/content/pdf/10.1007/s10291-021-01101-6.pdf)"
-publication_types:
-  - "2"
-authors:
-  - Jiang C
-  - admin
-author_notes:
-  - First Author
-  - Second Author
-publication: In *GPS Solutions*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: ""
-url_project: ""
-publication_short: In *GPS Solutions*
-url_source: ""
-url_video: ""
-title: Journal articles
-doi: ""
+draft: false
 featured: true
 tags: []
-projects:
-  - example
+slides: example
+url_pdf: ""
 image:
   caption: "Image credit:
-    [**System-level block diagram of the proposed method**](https://media.springernature.com/full/springer-static/image/\
+    [**Unsplash**](https://media.springernature.com/full/springer-static/image/\
     art%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.p\
     ng?as=webp)"
   focal_point: ""
   preview_only: false
   filename: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.png?as=webp
-date: 2013-07-01T00:00:00Z
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes:
+  - First Author
+  - Second Author
+doi: ""
+publication: In *GPS Solutions*
+projects:
+  - example
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
