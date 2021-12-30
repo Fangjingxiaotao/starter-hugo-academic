@@ -1,32 +1,40 @@
 ---
-title: Journal articles
+title: Intelligent GPS L1 LOS/Multipath/NLOS Classifiers Based on Correlator-,
+  RINEX- and NMEA-Level Measurements
 publication_types:
   - "2"
 authors:
   - Jiang C
   - admin
 publication_short: ""
-abstract: Non-line-of-sight (NLOS) global navigation satellite system (GNSS)
-  signals are a major factor that limits the GNSS positioning accuracy in urban
-  areas. An advanced GNSS signal processing technique, the vector tracking loop
-  (VTL), has been applied to NLOS detection and correction, and its feasibility
-  and superior performance have been reported in recent studies. In a VTL-based
-  GNSS receiver, the navigation solutions (i.e., position, velocity and time
-  (PVT)) are used to predict the signal tracking loop parameters. The difference
-  between the predicted signal and the received signal within the code
-  discriminator output can be used to detect NLOS reception. We generate the
-  probability of NLOS detection by modeling the code discriminator outputs using
-  Gaussian fitting. If this probability is larger than a predefined threshold,
-  NLOS reception is deemed to occur. Then, the NLOS-induced pseudorange
-  measurement bias is estimated as a state variable in the state vector, i.e.,
-  an augmented state vector is created for the extended Kalman filter. Two GPS
-  L1 C/A signal datasets from a static test and a dynamic test are investigated
-  using the proposed algorithm. The experimental results indicate that when NLOS
-  reception is present, the proposed approach outperforms the other two methods,
-  i.e., the standard VTL method without considering NLOS reception and the
-  VTL-based NLOS detection and correction method with multicorrelators, in terms
-  of the positioning performance. In addition, the proposed approach has a lower
-  computational load than the VTL method with multicorrelators.
+abstract: This paper proposes to use a correlator-level global positioning
+  system (GPS) line-of-sight/multipath/non-line-of-sight (LOS/MP/NLOS) signal
+  reception classifier to improve positioning performance in an urban
+  environment. Conventional LOS/MP/NLOS classifiers, referred to as national
+  marine electronics association (NMEA)-level and receiver independent exchange
+  format (RINEX)-level classifiers, are usually performed using attributes
+  extracted from basic observables or measurements such as received signal
+  strength, satellite elevation angle, code pseudorange, etc. The
+  NMEA/RINEX-level classification rate is limited because the complex signal
+  propagation in urban environment is not fully manifested in these end
+  attributes. In this paper, LOS/MP/NLOS features were extracted at the baseband
+  signal processing stage. Multicorrelator is implemented in a GPS
+  software-defined receiver (SDR) and exploited to generate features from the
+  autocorrelation function (ACF). A robust LOS/MP/NLOS classifier using a
+  supervised machine learning algorithm, support vector machine (SVM), is then
+  trained. It is also proposed that the Skymask and code pseudorange double
+  difference observable are used to label the real signal type. Raw GPS
+  intermediate frequency data were collected in urban areas in Hong Kong and
+  were postprocessed using a self-developed SDR, which can easily output
+  correlator-level LOS/MP/NLOS features. The SDR measurements were saved in the
+  file with the format of NMEA and RINEX. A fair comparison among NMEA-, RINEX-,
+  and correlator-level classifiers was then carried out on a common ground.
+  Results show that the correlator-level classifier improves the metric of F1
+  score by about 25% over the conventional NMEA- and RINEX-level classifiers for
+  testing data collected at different places to that of training data. In
+  addition to this finding, correlator-level classifier is found to be more
+  feasible in practical applications due to its less dependency on surrounding
+  scenarios compared with the NMEA/RINEX-level classifiers.
 draft: false
 featured: true
 tags: []
@@ -39,17 +47,23 @@ image:
     ?as=webp)"
   focal_point: ""
   preview_only: false
-  filename: polyu-logo_630x630.jpeg
+  filename: ""
 summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes:
-  - First Author
-  - Second Author
-doi: ""
-publication: In *GPS Solutions*
+  - Xu
+  - B.
+  - Jia
+  - Q.
+  - Luo
+  - Y.
+  - Hsu
+  - L.-T.
+doi: https://doi.org/10.3390/rs11161851
+publication: Remote Sensing
 projects: []
 date: 2021-12-30T12:33:48.189Z
 url_slides: ""
