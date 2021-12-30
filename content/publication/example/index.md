@@ -3,8 +3,7 @@ title: Journal articles
 publication_types:
   - "2"
 authors:
-  - Jiang
-  - C
+  - Jiang C
   - admin
 publication_short: ""
 abstract: Non-line-of-sight (NLOS) global navigation satellite system (GNSS)
