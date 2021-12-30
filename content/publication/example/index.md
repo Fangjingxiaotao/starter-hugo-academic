@@ -21,12 +21,11 @@ abstract: Non-line-of-sight (NLOS) global navigation satellite system (GNSS)
   of the positioning performance. In addition, the proposed approach has a lower
   computational load than the VTL method with multicorrelators.
 slides: example
-url_pdf: ""
+url_pdf: "(https://link.springer.com/content/pdf/10.1007/s10291-021-01101-6.pdf)"
 publication_types:
   - "2"
 authors:
-  - Jiang
-  - C
+  - Jiang C
   - admin
 author_notes:
   - First Author
@@ -37,7 +36,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *GPS Solutions*
 url_source: ""
 url_video: ""
 title: Journal articles
@@ -48,7 +47,7 @@ projects:
   - example
 image:
   caption: "Image credit:
-    [**Unsplash**](https://media.springernature.com/full/springer-static/image/\
+    [**System-level block diagram of the proposed method**](https://media.springernature.com/full/springer-static/image/\
     art%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.p\
     ng?as=webp)"
   focal_point: ""
