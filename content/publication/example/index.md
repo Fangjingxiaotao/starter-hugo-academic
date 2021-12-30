@@ -31,7 +31,7 @@ abstract: Non-line-of-sight (NLOS) global navigation satellite system (GNSS)
 draft: false
 featured: true
 tags: []
-slides: example
+slides: ""
 url_pdf: ""
 image:
   caption: "Image credit: [**GPS
@@ -51,8 +51,7 @@ author_notes:
   - Second Author
 doi: ""
 publication: In *GPS Solutions*
-projects:
-  - https://link.springer.com/content/pdf/10.1007/s10291-021-01101-6.pdf
+projects: []
 date: 2021-12-30T12:33:48.189Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
