@@ -32,19 +32,16 @@ draft: false
 featured: true
 tags: []
 slides: example
-url_pdf: "https://link.springer.com/content/pdf/10.1007/s10291-021-01101-6.pdf"
+url_pdf: ""
 image:
-  caption: "Image credit:
-    [**System-level block
-diagram of the proposed method**](https://media.springernature.com/full/springer-static/image/\
-    art%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.p\
-    ng?as=webp)"
+  caption: "Image credit: [**GPS
+    Solutions**](https://media.springernature.com/full/springer-static/image/ar\
+    t%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.png\
+    ?as=webp)"
   focal_point: ""
   preview_only: false
   filename: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10291-021-01101-6/MediaObjects/10291_2021_1101_Fig1_HTML.png?as=webp
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -55,8 +52,8 @@ author_notes:
 doi: ""
 publication: In *GPS Solutions*
 projects:
-  - example
-date: 2013-07-01T00:00:00.000Z
+  - https://link.springer.com/content/pdf/10.1007/s10291-021-01101-6.pdf
+date: 2021-12-30T12:33:48.189Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
