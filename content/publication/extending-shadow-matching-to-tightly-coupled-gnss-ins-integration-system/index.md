@@ -9,7 +9,7 @@ authors:
   - and Li-Ta Hsu
 doi: 10.1109/TVT.2020.2981093
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
